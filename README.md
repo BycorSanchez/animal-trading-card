@@ -9,4 +9,4 @@
 
 ## Attribution
 
-The demogorgon creature and Stranger Things content belongs to *[Netflix, Inc](https://www.netflix.com/).
+The demogorgon creature and Stranger Things content belongs to [Netflix, Inc](https://www.netflix.com/).
