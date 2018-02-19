@@ -1,4 +1,4 @@
-body{
+body {
 	font-family: Lucida Bright, Times New Roman, serif;
 	font-size: 14px;
 }
@@ -22,9 +22,9 @@ img{
 .card{
 	margin: 0 auto;
 	width: 330px;
-	color: #DDDDDD;
+	color: #DDD;
 	background-color: black;
-	box-shadow: 13px 17px 11px -7px #777777;
+	box-shadow: 13px 17px 11px -7px #777;
 }
 
 .fact{
@@ -50,7 +50,7 @@ h3{
 
 .information{
 	margin: 13px;
-	padding: 0px 15px;
+	padding: 0 15px;
 	text-align: justify;
 	background-color: #350909;
 }
@@ -58,7 +58,7 @@ h3{
 footer{
 	font-size: 11px;
 	font-style: italic;
-	padding: 0px 15px;
+	padding: 0 15px;
 	text-align: center;
 }
 
