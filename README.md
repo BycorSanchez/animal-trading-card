@@ -1,7 +1,5 @@
 # Animal trading card
 
-## Preview
-
 ![Preview](images/preview.png)
 
 ## Live Preview
