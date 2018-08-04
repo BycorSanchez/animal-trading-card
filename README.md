@@ -5,7 +5,7 @@ This is the first required project on the [Udacity Front End Nanodegree](https:/
 ![Preview](images/preview.png)
 
 ## Live Preview
-* [https://codepen.io/bycorsanchez/full/wPdqmK/](https://codepen.io/bycorsanchez/full/wPdqmK/)
+* [https://bycorsanchez.github.io/animal-trading-card/](https://bycorsanchez.github.io/animal-trading-card/)
 
 ## Attribution
 
